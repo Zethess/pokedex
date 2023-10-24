@@ -1,0 +1,17 @@
+-Crear diseño general
+-Crear 1 plantilla
+-Configurar Fecth
+-Aplicar Fetch a la plantilla
+-Crear grid
+-Implementar busqueda
+-Giro de carta con información básica y un botón más
+-Si clicas boton se abre otra pestaña con información de esa elección y un botón atrás
+https://pokeapi.co/api/v2/pokemon/1/
+-species,name,id,types,weight,species --url
+"url": "https://pokeapi.co/api/v2/pokemon-species/1/"
+flavor_text_entries
+    "flavor_text": "Una rara semilla le fue plantada en el lomo al nacer.\nLa planta brota y crece con este Pokémon.",
+            "language": {
+                "name": "es",
+                "url": "https://pokeapi.co/api/v2/language/7/"
+            },
